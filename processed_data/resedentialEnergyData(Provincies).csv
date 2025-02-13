@@ -1,0 +1,508 @@
+Housing characteristics,Year,Regions,AvgGasConsumptionResedetial,AvgElectricitySupplyResedential
+Total dwellings,2010,The Netherlands,1850.0,3300.0
+Total dwellings,2011,The Netherlands,1450.0,3250.0
+Total dwellings,2012,The Netherlands,1500.0,3200.0
+Total dwellings,2013,The Netherlands,1600.0,3150.0
+Total dwellings,2014,The Netherlands,1200.0,3050.0
+Total dwellings,2015,The Netherlands,1250.0,2980.0
+Total dwellings,2016,The Netherlands,1300.0,2910.0
+Total dwellings,2017,The Netherlands,1240.0,2860.0
+Total dwellings,2018,The Netherlands,1270.0,2790.0
+Total dwellings,2019,The Netherlands,1180.0,2730.0
+Total dwellings,2020,The Netherlands,1120.0,2760.0
+Total dwellings,2021,The Netherlands,1250.0,2810.0
+Total dwellings,2022,The Netherlands,980.0,2640.0
+Total dwellings,2010,Groningen (PV),2150.0,3100.0
+Total dwellings,2011,Groningen (PV),1700.0,3100.0
+Total dwellings,2012,Groningen (PV),1850.0,3050.0
+Total dwellings,2013,Groningen (PV),1900.0,3000.0
+Total dwellings,2014,Groningen (PV),1400.0,2850.0
+Total dwellings,2015,Groningen (PV),1500.0,2760.0
+Total dwellings,2016,Groningen (PV),1570.0,2690.0
+Total dwellings,2017,Groningen (PV),1480.0,2640.0
+Total dwellings,2018,Groningen (PV),1510.0,2580.0
+Total dwellings,2019,Groningen (PV),1350.0,2450.0
+Total dwellings,2020,Groningen (PV),1320.0,2530.0
+Total dwellings,2021,Groningen (PV),1460.0,2570.0
+Total dwellings,2022,Groningen (PV),1140.0,2440.0
+Total dwellings,2010,Fryslân (PV),2150.0,3050.0
+Total dwellings,2011,Fryslân (PV),1650.0,3050.0
+Total dwellings,2012,Fryslân (PV),1750.0,3000.0
+Total dwellings,2013,Fryslân (PV),1850.0,2900.0
+Total dwellings,2014,Fryslân (PV),1350.0,2800.0
+Total dwellings,2015,Fryslân (PV),1450.0,2730.0
+Total dwellings,2016,Fryslân (PV),1520.0,2640.0
+Total dwellings,2017,Fryslân (PV),1430.0,2570.0
+Total dwellings,2018,Fryslân (PV),1470.0,2490.0
+Total dwellings,2019,Fryslân (PV),1350.0,2540.0
+Total dwellings,2020,Fryslân (PV),1310.0,2630.0
+Total dwellings,2021,Fryslân (PV),1460.0,2680.0
+Total dwellings,2022,Fryslân (PV),1140.0,2520.0
+Total dwellings,2010,Drenthe (PV),2350.0,3500.0
+Total dwellings,2011,Drenthe (PV),1850.0,3450.0
+Total dwellings,2012,Drenthe (PV),1950.0,3400.0
+Total dwellings,2013,Drenthe (PV),2050.0,3350.0
+Total dwellings,2014,Drenthe (PV),1500.0,3200.0
+Total dwellings,2015,Drenthe (PV),1600.0,3110.0
+Total dwellings,2016,Drenthe (PV),1680.0,3050.0
+Total dwellings,2017,Drenthe (PV),1590.0,2980.0
+Total dwellings,2018,Drenthe (PV),1610.0,2910.0
+Total dwellings,2019,Drenthe (PV),1480.0,2810.0
+Total dwellings,2020,Drenthe (PV),1400.0,2840.0
+Total dwellings,2021,Drenthe (PV),1560.0,2890.0
+Total dwellings,2022,Drenthe (PV),1230.0,2750.0
+Total dwellings,2010,Overijssel (PV),2100.0,3450.0
+Total dwellings,2011,Overijssel (PV),1650.0,3450.0
+Total dwellings,2012,Overijssel (PV),1750.0,3400.0
+Total dwellings,2013,Overijssel (PV),1850.0,3350.0
+Total dwellings,2014,Overijssel (PV),1300.0,3250.0
+Total dwellings,2015,Overijssel (PV),1390.0,3130.0
+Total dwellings,2016,Overijssel (PV),1430.0,3070.0
+Total dwellings,2017,Overijssel (PV),1390.0,3010.0
+Total dwellings,2018,Overijssel (PV),1410.0,2940.0
+Total dwellings,2019,Overijssel (PV),1280.0,2850.0
+Total dwellings,2020,Overijssel (PV),1220.0,2870.0
+Total dwellings,2021,Overijssel (PV),1400.0,2930.0
+Total dwellings,2022,Overijssel (PV),1100.0,2770.0
+Total dwellings,2010,Flevoland (PV),1150.0,3650.0
+Total dwellings,2011,Flevoland (PV),950.0,3600.0
+Total dwellings,2012,Flevoland (PV),950.0,3500.0
+Total dwellings,2013,Flevoland (PV),1000.0,3450.0
+Total dwellings,2014,Flevoland (PV),750.0,3350.0
+Total dwellings,2015,Flevoland (PV),760.0,3270.0
+Total dwellings,2016,Flevoland (PV),850.0,3140.0
+Total dwellings,2017,Flevoland (PV),810.0,3050.0
+Total dwellings,2018,Flevoland (PV),830.0,2930.0
+Total dwellings,2019,Flevoland (PV),770.0,2950.0
+Total dwellings,2020,Flevoland (PV),760.0,3010.0
+Total dwellings,2021,Flevoland (PV),850.0,3040.0
+Total dwellings,2022,Flevoland (PV),670.0,2880.0
+Total dwellings,2010,Gelderland (PV),2000.0,3450.0
+Total dwellings,2011,Gelderland (PV),1600.0,3450.0
+Total dwellings,2012,Gelderland (PV),1650.0,3400.0
+Total dwellings,2013,Gelderland (PV),1750.0,3300.0
+Total dwellings,2014,Gelderland (PV),1300.0,3200.0
+Total dwellings,2015,Gelderland (PV),1390.0,3130.0
+Total dwellings,2016,Gelderland (PV),1440.0,3030.0
+Total dwellings,2017,Gelderland (PV),1390.0,2950.0
+Total dwellings,2018,Gelderland (PV),1400.0,2850.0
+Total dwellings,2019,Gelderland (PV),1290.0,2850.0
+Total dwellings,2020,Gelderland (PV),1220.0,2910.0
+Total dwellings,2021,Gelderland (PV),1370.0,2950.0
+Total dwellings,2022,Gelderland (PV),1080.0,2790.0
+Total dwellings,2010,Utrecht (PV),1750.0,3350.0
+Total dwellings,2011,Utrecht (PV),1350.0,3350.0
+Total dwellings,2012,Utrecht (PV),1350.0,3250.0
+Total dwellings,2013,Utrecht (PV),1450.0,3200.0
+Total dwellings,2014,Utrecht (PV),1050.0,3100.0
+Total dwellings,2015,Utrecht (PV),1150.0,3020.0
+Total dwellings,2016,Utrecht (PV),1200.0,2980.0
+Total dwellings,2017,Utrecht (PV),1140.0,2930.0
+Total dwellings,2018,Utrecht (PV),1160.0,2850.0
+Total dwellings,2019,Utrecht (PV),1070.0,2750.0
+Total dwellings,2020,Utrecht (PV),1020.0,2760.0
+Total dwellings,2021,Utrecht (PV),1150.0,2830.0
+Total dwellings,2022,Utrecht (PV),890.0,2650.0
+Total dwellings,2010,Noord-Holland (PV),1650.0,3000.0
+Total dwellings,2011,Noord-Holland (PV),1300.0,3000.0
+Total dwellings,2012,Noord-Holland (PV),1350.0,2950.0
+Total dwellings,2013,Noord-Holland (PV),1450.0,2900.0
+Total dwellings,2014,Noord-Holland (PV),1100.0,2800.0
+Total dwellings,2015,Noord-Holland (PV),1140.0,2740.0
+Total dwellings,2016,Noord-Holland (PV),1190.0,2680.0
+Total dwellings,2017,Noord-Holland (PV),1130.0,2620.0
+Total dwellings,2018,Noord-Holland (PV),1160.0,2550.0
+Total dwellings,2019,Noord-Holland (PV),1070.0,2520.0
+Total dwellings,2020,Noord-Holland (PV),1020.0,2550.0
+Total dwellings,2021,Noord-Holland (PV),1150.0,2600.0
+Total dwellings,2022,Noord-Holland (PV),900.0,2430.0
+Total dwellings,2010,Zuid-Holland (PV),1600.0,3100.0
+Total dwellings,2011,Zuid-Holland (PV),1250.0,3050.0
+Total dwellings,2012,Zuid-Holland (PV),1300.0,3000.0
+Total dwellings,2013,Zuid-Holland (PV),1400.0,2950.0
+Total dwellings,2014,Zuid-Holland (PV),1050.0,2850.0
+Total dwellings,2015,Zuid-Holland (PV),1090.0,2810.0
+Total dwellings,2016,Zuid-Holland (PV),1120.0,2770.0
+Total dwellings,2017,Zuid-Holland (PV),1080.0,2730.0
+Total dwellings,2018,Zuid-Holland (PV),1100.0,2670.0
+Total dwellings,2019,Zuid-Holland (PV),1020.0,2590.0
+Total dwellings,2020,Zuid-Holland (PV),980.0,2620.0
+Total dwellings,2021,Zuid-Holland (PV),1100.0,2680.0
+Total dwellings,2022,Zuid-Holland (PV),850.0,2520.0
+Total dwellings,2010,Zeeland (PV),1850.0,3100.0
+Total dwellings,2011,Zeeland (PV),1450.0,3100.0
+Total dwellings,2012,Zeeland (PV),1550.0,3000.0
+Total dwellings,2013,Zeeland (PV),1650.0,3000.0
+Total dwellings,2014,Zeeland (PV),1250.0,2850.0
+Total dwellings,2015,Zeeland (PV),1330.0,2800.0
+Total dwellings,2016,Zeeland (PV),1360.0,2740.0
+Total dwellings,2017,Zeeland (PV),1280.0,2670.0
+Total dwellings,2018,Zeeland (PV),1310.0,2600.0
+Total dwellings,2019,Zeeland (PV),1220.0,2520.0
+Total dwellings,2020,Zeeland (PV),1170.0,2540.0
+Total dwellings,2021,Zeeland (PV),1330.0,2710.0
+Total dwellings,2022,Zeeland (PV),1050.0,2570.0
+Total dwellings,2010,Noord-Brabant (PV),1950.0,3600.0
+Total dwellings,2011,Noord-Brabant (PV),1500.0,3550.0
+Total dwellings,2012,Noord-Brabant (PV),1600.0,3550.0
+Total dwellings,2013,Noord-Brabant (PV),1700.0,3450.0
+Total dwellings,2014,Noord-Brabant (PV),1250.0,3350.0
+Total dwellings,2015,Noord-Brabant (PV),1340.0,3290.0
+Total dwellings,2016,Noord-Brabant (PV),1380.0,3230.0
+Total dwellings,2017,Noord-Brabant (PV),1320.0,3190.0
+Total dwellings,2018,Noord-Brabant (PV),1340.0,3120.0
+Total dwellings,2019,Noord-Brabant (PV),1250.0,3010.0
+Total dwellings,2020,Noord-Brabant (PV),1180.0,3020.0
+Total dwellings,2021,Noord-Brabant (PV),1320.0,3060.0
+Total dwellings,2022,Noord-Brabant (PV),1030.0,2870.0
+Total dwellings,2010,Limburg (PV),2150.0,3550.0
+Total dwellings,2011,Limburg (PV),1650.0,3450.0
+Total dwellings,2012,Limburg (PV),1750.0,3450.0
+Total dwellings,2013,Limburg (PV),1850.0,3400.0
+Total dwellings,2014,Limburg (PV),1350.0,3250.0
+Total dwellings,2015,Limburg (PV),1450.0,3170.0
+Total dwellings,2016,Limburg (PV),1510.0,3110.0
+Total dwellings,2017,Limburg (PV),1450.0,3080.0
+Total dwellings,2018,Limburg (PV),1450.0,3000.0
+Total dwellings,2019,Limburg (PV),1350.0,2900.0
+Total dwellings,2020,Limburg (PV),1270.0,2910.0
+Total dwellings,2021,Limburg (PV),1430.0,2940.0
+Total dwellings,2022,Limburg (PV),1120.0,2800.0
+Apartment,2010,The Netherlands,1200.0,2250.0
+Apartment,2011,The Netherlands,950.0,2250.0
+Apartment,2012,The Netherlands,1000.0,2250.0
+Apartment,2013,The Netherlands,1050.0,2200.0
+Apartment,2014,The Netherlands,800.0,2150.0
+Apartment,2015,The Netherlands,840.0,2120.0
+Apartment,2016,The Netherlands,870.0,2070.0
+Apartment,2017,The Netherlands,840.0,2050.0
+Apartment,2018,The Netherlands,830.0,2010.0
+Apartment,2019,The Netherlands,770.0,1970.0
+Apartment,2020,The Netherlands,750.0,1990.0
+Apartment,2021,The Netherlands,840.0,2040.0
+Apartment,2022,The Netherlands,670.0,1950.0
+Apartment,2010,Groningen (PV),1450.0,2100.0
+Apartment,2011,Groningen (PV),1100.0,2050.0
+Apartment,2012,Groningen (PV),1250.0,2100.0
+Apartment,2013,Groningen (PV),1300.0,2050.0
+Apartment,2014,Groningen (PV),1000.0,2000.0
+Apartment,2015,Groningen (PV),1040.0,1940.0
+Apartment,2016,Groningen (PV),1080.0,1910.0
+Apartment,2017,Groningen (PV),1030.0,1900.0
+Apartment,2018,Groningen (PV),1030.0,1860.0
+Apartment,2019,Groningen (PV),940.0,1810.0
+Apartment,2020,Groningen (PV),870.0,1800.0
+Apartment,2021,Groningen (PV),960.0,1840.0
+Apartment,2022,Groningen (PV),770.0,1780.0
+Apartment,2010,Fryslân (PV),1300.0,1900.0
+Apartment,2011,Fryslân (PV),1000.0,1900.0
+Apartment,2012,Fryslân (PV),1100.0,1900.0
+Apartment,2013,Fryslân (PV),1100.0,1850.0
+Apartment,2014,Fryslân (PV),850.0,1800.0
+Apartment,2015,Fryslân (PV),910.0,1790.0
+Apartment,2016,Fryslân (PV),940.0,1740.0
+Apartment,2017,Fryslân (PV),910.0,1720.0
+Apartment,2018,Fryslân (PV),900.0,1700.0
+Apartment,2019,Fryslân (PV),840.0,1670.0
+Apartment,2020,Fryslân (PV),810.0,1740.0
+Apartment,2021,Fryslân (PV),900.0,1800.0
+Apartment,2022,Fryslân (PV),720.0,1740.0
+Apartment,2010,Drenthe (PV),1350.0,2100.0
+Apartment,2011,Drenthe (PV),1050.0,2100.0
+Apartment,2012,Drenthe (PV),1100.0,2100.0
+Apartment,2013,Drenthe (PV),1150.0,2050.0
+Apartment,2014,Drenthe (PV),850.0,2000.0
+Apartment,2015,Drenthe (PV),950.0,1990.0
+Apartment,2016,Drenthe (PV),990.0,1920.0
+Apartment,2017,Drenthe (PV),950.0,1890.0
+Apartment,2018,Drenthe (PV),930.0,1860.0
+Apartment,2019,Drenthe (PV),860.0,1830.0
+Apartment,2020,Drenthe (PV),840.0,1870.0
+Apartment,2021,Drenthe (PV),940.0,1910.0
+Apartment,2022,Drenthe (PV),760.0,1850.0
+Apartment,2010,Overijssel (PV),1300.0,2250.0
+Apartment,2011,Overijssel (PV),950.0,2250.0
+Apartment,2012,Overijssel (PV),1050.0,2250.0
+Apartment,2013,Overijssel (PV),1100.0,2200.0
+Apartment,2014,Overijssel (PV),800.0,2100.0
+Apartment,2015,Overijssel (PV),860.0,2110.0
+Apartment,2016,Overijssel (PV),850.0,2030.0
+Apartment,2017,Overijssel (PV),820.0,2000.0
+Apartment,2018,Overijssel (PV),810.0,1960.0
+Apartment,2019,Overijssel (PV),740.0,1920.0
+Apartment,2020,Overijssel (PV),750.0,1970.0
+Apartment,2021,Overijssel (PV),870.0,2030.0
+Apartment,2022,Overijssel (PV),700.0,1960.0
+Apartment,2010,Flevoland (PV),550.0,2300.0
+Apartment,2011,Flevoland (PV),450.0,2300.0
+Apartment,2012,Flevoland (PV),500.0,2300.0
+Apartment,2013,Flevoland (PV),500.0,2200.0
+Apartment,2014,Flevoland (PV),400.0,2200.0
+Apartment,2015,Flevoland (PV),410.0,2160.0
+Apartment,2016,Flevoland (PV),450.0,2100.0
+Apartment,2017,Flevoland (PV),440.0,2070.0
+Apartment,2018,Flevoland (PV),430.0,2040.0
+Apartment,2019,Flevoland (PV),400.0,1980.0
+Apartment,2020,Flevoland (PV),410.0,2060.0
+Apartment,2021,Flevoland (PV),460.0,2070.0
+Apartment,2022,Flevoland (PV),370.0,2000.0
+Apartment,2010,Gelderland (PV),1250.0,2250.0
+Apartment,2011,Gelderland (PV),1000.0,2250.0
+Apartment,2012,Gelderland (PV),1050.0,2250.0
+Apartment,2013,Gelderland (PV),1100.0,2150.0
+Apartment,2014,Gelderland (PV),800.0,2100.0
+Apartment,2015,Gelderland (PV),910.0,2140.0
+Apartment,2016,Gelderland (PV),920.0,2040.0
+Apartment,2017,Gelderland (PV),890.0,2000.0
+Apartment,2018,Gelderland (PV),870.0,1960.0
+Apartment,2019,Gelderland (PV),800.0,1930.0
+Apartment,2020,Gelderland (PV),790.0,2010.0
+Apartment,2021,Gelderland (PV),890.0,2060.0
+Apartment,2022,Gelderland (PV),720.0,1980.0
+Apartment,2010,Utrecht (PV),1000.0,2350.0
+Apartment,2011,Utrecht (PV),800.0,2300.0
+Apartment,2012,Utrecht (PV),800.0,2300.0
+Apartment,2013,Utrecht (PV),800.0,2200.0
+Apartment,2014,Utrecht (PV),650.0,2150.0
+Apartment,2015,Utrecht (PV),680.0,2150.0
+Apartment,2016,Utrecht (PV),730.0,2120.0
+Apartment,2017,Utrecht (PV),690.0,2090.0
+Apartment,2018,Utrecht (PV),680.0,2050.0
+Apartment,2019,Utrecht (PV),630.0,1990.0
+Apartment,2020,Utrecht (PV),630.0,2010.0
+Apartment,2021,Utrecht (PV),690.0,2070.0
+Apartment,2022,Utrecht (PV),550.0,1960.0
+Apartment,2010,Noord-Holland (PV),1200.0,2200.0
+Apartment,2011,Noord-Holland (PV),950.0,2200.0
+Apartment,2012,Noord-Holland (PV),1000.0,2200.0
+Apartment,2013,Noord-Holland (PV),1100.0,2150.0
+Apartment,2014,Noord-Holland (PV),800.0,2100.0
+Apartment,2015,Noord-Holland (PV),860.0,2080.0
+Apartment,2016,Noord-Holland (PV),890.0,2040.0
+Apartment,2017,Noord-Holland (PV),850.0,2010.0
+Apartment,2018,Noord-Holland (PV),840.0,1970.0
+Apartment,2019,Noord-Holland (PV),780.0,1920.0
+Apartment,2020,Noord-Holland (PV),750.0,1960.0
+Apartment,2021,Noord-Holland (PV),840.0,2000.0
+Apartment,2022,Noord-Holland (PV),660.0,1900.0
+Apartment,2010,Zuid-Holland (PV),1250.0,2350.0
+Apartment,2011,Zuid-Holland (PV),950.0,2300.0
+Apartment,2012,Zuid-Holland (PV),1000.0,2300.0
+Apartment,2013,Zuid-Holland (PV),1050.0,2250.0
+Apartment,2014,Zuid-Holland (PV),800.0,2200.0
+Apartment,2015,Zuid-Holland (PV),860.0,2170.0
+Apartment,2016,Zuid-Holland (PV),890.0,2140.0
+Apartment,2017,Zuid-Holland (PV),850.0,2120.0
+Apartment,2018,Zuid-Holland (PV),850.0,2090.0
+Apartment,2019,Zuid-Holland (PV),800.0,2050.0
+Apartment,2020,Zuid-Holland (PV),770.0,2050.0
+Apartment,2021,Zuid-Holland (PV),860.0,2110.0
+Apartment,2022,Zuid-Holland (PV),680.0,2010.0
+Apartment,2010,Zeeland (PV),1200.0,2100.0
+Apartment,2011,Zeeland (PV),950.0,2100.0
+Apartment,2012,Zeeland (PV),1000.0,2100.0
+Apartment,2013,Zeeland (PV),1050.0,2050.0
+Apartment,2014,Zeeland (PV),800.0,2000.0
+Apartment,2015,Zeeland (PV),850.0,1990.0
+Apartment,2016,Zeeland (PV),850.0,1920.0
+Apartment,2017,Zeeland (PV),810.0,1880.0
+Apartment,2018,Zeeland (PV),820.0,1860.0
+Apartment,2019,Zeeland (PV),770.0,1820.0
+Apartment,2020,Zeeland (PV),760.0,1840.0
+Apartment,2021,Zeeland (PV),850.0,1880.0
+Apartment,2022,Zeeland (PV),690.0,1810.0
+Apartment,2010,Noord-Brabant (PV),1150.0,2300.0
+Apartment,2011,Noord-Brabant (PV),850.0,2300.0
+Apartment,2012,Noord-Brabant (PV),950.0,2300.0
+Apartment,2013,Noord-Brabant (PV),950.0,2200.0
+Apartment,2014,Noord-Brabant (PV),700.0,2150.0
+Apartment,2015,Noord-Brabant (PV),760.0,2150.0
+Apartment,2016,Noord-Brabant (PV),780.0,2090.0
+Apartment,2017,Noord-Brabant (PV),750.0,2070.0
+Apartment,2018,Noord-Brabant (PV),750.0,2050.0
+Apartment,2019,Noord-Brabant (PV),690.0,2010.0
+Apartment,2020,Noord-Brabant (PV),690.0,2010.0
+Apartment,2021,Noord-Brabant (PV),750.0,2050.0
+Apartment,2022,Noord-Brabant (PV),600.0,1970.0
+Apartment,2010,Limburg (PV),1300.0,2250.0
+Apartment,2011,Limburg (PV),950.0,2200.0
+Apartment,2012,Limburg (PV),1050.0,2200.0
+Apartment,2013,Limburg (PV),1100.0,2150.0
+Apartment,2014,Limburg (PV),800.0,2100.0
+Apartment,2015,Limburg (PV),900.0,2100.0
+Apartment,2016,Limburg (PV),930.0,2050.0
+Apartment,2017,Limburg (PV),890.0,2040.0
+Apartment,2018,Limburg (PV),880.0,2020.0
+Apartment,2019,Limburg (PV),830.0,1980.0
+Apartment,2020,Limburg (PV),800.0,1980.0
+Apartment,2021,Limburg (PV),900.0,2020.0
+Apartment,2022,Limburg (PV),720.0,1960.0
+Owner-occupied house,2010,The Netherlands,,
+Owner-occupied house,2011,The Netherlands,,
+Owner-occupied house,2012,The Netherlands,1750.0,3750.0
+Owner-occupied house,2013,The Netherlands,1850.0,3700.0
+Owner-occupied house,2014,The Netherlands,1400.0,3550.0
+Owner-occupied house,2015,The Netherlands,1480.0,3480.0
+Owner-occupied house,2016,The Netherlands,1530.0,3400.0
+Owner-occupied house,2017,The Netherlands,1470.0,3330.0
+Owner-occupied house,2018,The Netherlands,1480.0,3250.0
+Owner-occupied house,2019,The Netherlands,1370.0,3180.0
+Owner-occupied house,2020,The Netherlands,1300.0,3230.0
+Owner-occupied house,2021,The Netherlands,1470.0,3300.0
+Owner-occupied house,2022,The Netherlands,1140.0,3090.0
+Owner-occupied house,2010,Groningen (PV),,
+Owner-occupied house,2011,Groningen (PV),,
+Owner-occupied house,2012,Groningen (PV),2050.0,3550.0
+Owner-occupied house,2013,Groningen (PV),2200.0,3500.0
+Owner-occupied house,2014,Groningen (PV),1650.0,3350.0
+Owner-occupied house,2015,Groningen (PV),1730.0,3250.0
+Owner-occupied house,2016,Groningen (PV),1820.0,3160.0
+Owner-occupied house,2017,Groningen (PV),1710.0,3060.0
+Owner-occupied house,2018,Groningen (PV),1740.0,2990.0
+Owner-occupied house,2019,Groningen (PV),1570.0,2870.0
+Owner-occupied house,2020,Groningen (PV),1530.0,2960.0
+Owner-occupied house,2021,Groningen (PV),1720.0,3030.0
+Owner-occupied house,2022,Groningen (PV),1330.0,2840.0
+Owner-occupied house,2010,Fryslân (PV),,
+Owner-occupied house,2011,Fryslân (PV),,
+Owner-occupied house,2012,Fryslân (PV),1950.0,3450.0
+Owner-occupied house,2013,Fryslân (PV),2050.0,3300.0
+Owner-occupied house,2014,Fryslân (PV),1550.0,3200.0
+Owner-occupied house,2015,Fryslân (PV),1640.0,3130.0
+Owner-occupied house,2016,Fryslân (PV),1720.0,3010.0
+Owner-occupied house,2017,Fryslân (PV),1620.0,2910.0
+Owner-occupied house,2018,Fryslân (PV),1660.0,2820.0
+Owner-occupied house,2019,Fryslân (PV),1520.0,2910.0
+Owner-occupied house,2020,Fryslân (PV),1470.0,3020.0
+Owner-occupied house,2021,Fryslân (PV),1650.0,3090.0
+Owner-occupied house,2022,Fryslân (PV),1280.0,2910.0
+Owner-occupied house,2010,Drenthe (PV),,
+Owner-occupied house,2011,Drenthe (PV),,
+Owner-occupied house,2012,Drenthe (PV),2150.0,3850.0
+Owner-occupied house,2013,Drenthe (PV),2250.0,3800.0
+Owner-occupied house,2014,Drenthe (PV),1700.0,3600.0
+Owner-occupied house,2015,Drenthe (PV),1780.0,3510.0
+Owner-occupied house,2016,Drenthe (PV),1880.0,3440.0
+Owner-occupied house,2017,Drenthe (PV),1790.0,3360.0
+Owner-occupied house,2018,Drenthe (PV),1800.0,3290.0
+Owner-occupied house,2019,Drenthe (PV),1640.0,3170.0
+Owner-occupied house,2020,Drenthe (PV),1570.0,3210.0
+Owner-occupied house,2021,Drenthe (PV),1760.0,3290.0
+Owner-occupied house,2022,Drenthe (PV),1370.0,3110.0
+Owner-occupied house,2010,Overijssel (PV),,
+Owner-occupied house,2011,Overijssel (PV),,
+Owner-occupied house,2012,Overijssel (PV),2000.0,3950.0
+Owner-occupied house,2013,Overijssel (PV),2100.0,3850.0
+Owner-occupied house,2014,Overijssel (PV),1500.0,3700.0
+Owner-occupied house,2015,Overijssel (PV),1600.0,3610.0
+Owner-occupied house,2016,Overijssel (PV),1660.0,3530.0
+Owner-occupied house,2017,Overijssel (PV),1620.0,3460.0
+Owner-occupied house,2018,Overijssel (PV),1620.0,3390.0
+Owner-occupied house,2019,Overijssel (PV),1470.0,3270.0
+Owner-occupied house,2020,Overijssel (PV),1400.0,3310.0
+Owner-occupied house,2021,Overijssel (PV),1620.0,3390.0
+Owner-occupied house,2022,Overijssel (PV),1270.0,3190.0
+Owner-occupied house,2010,Flevoland (PV),,
+Owner-occupied house,2011,Flevoland (PV),,
+Owner-occupied house,2012,Flevoland (PV),1050.0,4000.0
+Owner-occupied house,2013,Flevoland (PV),1150.0,3850.0
+Owner-occupied house,2014,Flevoland (PV),850.0,3750.0
+Owner-occupied house,2015,Flevoland (PV),860.0,3640.0
+Owner-occupied house,2016,Flevoland (PV),940.0,3470.0
+Owner-occupied house,2017,Flevoland (PV),910.0,3360.0
+Owner-occupied house,2018,Flevoland (PV),910.0,3240.0
+Owner-occupied house,2019,Flevoland (PV),840.0,3270.0
+Owner-occupied house,2020,Flevoland (PV),830.0,3360.0
+Owner-occupied house,2021,Flevoland (PV),930.0,3400.0
+Owner-occupied house,2022,Flevoland (PV),730.0,3200.0
+Owner-occupied house,2010,Gelderland (PV),,
+Owner-occupied house,2011,Gelderland (PV),,
+Owner-occupied house,2012,Gelderland (PV),1900.0,3900.0
+Owner-occupied house,2013,Gelderland (PV),2000.0,3800.0
+Owner-occupied house,2014,Gelderland (PV),1500.0,3650.0
+Owner-occupied house,2015,Gelderland (PV),1600.0,3590.0
+Owner-occupied house,2016,Gelderland (PV),1660.0,3470.0
+Owner-occupied house,2017,Gelderland (PV),1610.0,3370.0
+Owner-occupied house,2018,Gelderland (PV),1600.0,3260.0
+Owner-occupied house,2019,Gelderland (PV),1470.0,3270.0
+Owner-occupied house,2020,Gelderland (PV),1390.0,3350.0
+Owner-occupied house,2021,Gelderland (PV),1570.0,3400.0
+Owner-occupied house,2022,Gelderland (PV),1230.0,3200.0
+Owner-occupied house,2010,Utrecht (PV),,
+Owner-occupied house,2011,Utrecht (PV),,
+Owner-occupied house,2012,Utrecht (PV),1600.0,3750.0
+Owner-occupied house,2013,Utrecht (PV),1750.0,3700.0
+Owner-occupied house,2014,Utrecht (PV),1300.0,3550.0
+Owner-occupied house,2015,Utrecht (PV),1380.0,3490.0
+Owner-occupied house,2016,Utrecht (PV),1430.0,3430.0
+Owner-occupied house,2017,Utrecht (PV),1370.0,3360.0
+Owner-occupied house,2018,Utrecht (PV),1360.0,3280.0
+Owner-occupied house,2019,Utrecht (PV),1260.0,3160.0
+Owner-occupied house,2020,Utrecht (PV),1200.0,3200.0
+Owner-occupied house,2021,Utrecht (PV),1360.0,3300.0
+Owner-occupied house,2022,Utrecht (PV),1060.0,3070.0
+Owner-occupied house,2010,Noord-Holland (PV),,
+Owner-occupied house,2011,Noord-Holland (PV),,
+Owner-occupied house,2012,Noord-Holland (PV),1650.0,3600.0
+Owner-occupied house,2013,Noord-Holland (PV),1750.0,3500.0
+Owner-occupied house,2014,Noord-Holland (PV),1300.0,3400.0
+Owner-occupied house,2015,Noord-Holland (PV),1390.0,3300.0
+Owner-occupied house,2016,Noord-Holland (PV),1430.0,3210.0
+Owner-occupied house,2017,Noord-Holland (PV),1370.0,3140.0
+Owner-occupied house,2018,Noord-Holland (PV),1380.0,3070.0
+Owner-occupied house,2019,Noord-Holland (PV),1280.0,3040.0
+Owner-occupied house,2020,Noord-Holland (PV),1210.0,3080.0
+Owner-occupied house,2021,Noord-Holland (PV),1380.0,3160.0
+Owner-occupied house,2022,Noord-Holland (PV),1070.0,2940.0
+Owner-occupied house,2010,Zuid-Holland (PV),,
+Owner-occupied house,2011,Zuid-Holland (PV),,
+Owner-occupied house,2012,Zuid-Holland (PV),1500.0,3550.0
+Owner-occupied house,2013,Zuid-Holland (PV),1600.0,3500.0
+Owner-occupied house,2014,Zuid-Holland (PV),1200.0,3400.0
+Owner-occupied house,2015,Zuid-Holland (PV),1280.0,3330.0
+Owner-occupied house,2016,Zuid-Holland (PV),1310.0,3270.0
+Owner-occupied house,2017,Zuid-Holland (PV),1260.0,3220.0
+Owner-occupied house,2018,Zuid-Holland (PV),1270.0,3150.0
+Owner-occupied house,2019,Zuid-Holland (PV),1170.0,3040.0
+Owner-occupied house,2020,Zuid-Holland (PV),1120.0,3110.0
+Owner-occupied house,2021,Zuid-Holland (PV),1270.0,3180.0
+Owner-occupied house,2022,Zuid-Holland (PV),980.0,2970.0
+Owner-occupied house,2010,Zeeland (PV),,
+Owner-occupied house,2011,Zeeland (PV),,
+Owner-occupied house,2012,Zeeland (PV),1650.0,3400.0
+Owner-occupied house,2013,Zeeland (PV),1850.0,3350.0
+Owner-occupied house,2014,Zeeland (PV),1400.0,3200.0
+Owner-occupied house,2015,Zeeland (PV),1470.0,3150.0
+Owner-occupied house,2016,Zeeland (PV),1500.0,3080.0
+Owner-occupied house,2017,Zeeland (PV),1420.0,3000.0
+Owner-occupied house,2018,Zeeland (PV),1450.0,2930.0
+Owner-occupied house,2019,Zeeland (PV),1350.0,2840.0
+Owner-occupied house,2020,Zeeland (PV),1290.0,2870.0
+Owner-occupied house,2021,Zeeland (PV),1480.0,3070.0
+Owner-occupied house,2022,Zeeland (PV),1160.0,2900.0
+Owner-occupied house,2010,Noord-Brabant (PV),,
+Owner-occupied house,2011,Noord-Brabant (PV),,
+Owner-occupied house,2012,Noord-Brabant (PV),1850.0,4050.0
+Owner-occupied house,2013,Noord-Brabant (PV),1950.0,4000.0
+Owner-occupied house,2014,Noord-Brabant (PV),1450.0,3850.0
+Owner-occupied house,2015,Noord-Brabant (PV),1560.0,3780.0
+Owner-occupied house,2016,Noord-Brabant (PV),1600.0,3710.0
+Owner-occupied house,2017,Noord-Brabant (PV),1550.0,3650.0
+Owner-occupied house,2018,Noord-Brabant (PV),1550.0,3590.0
+Owner-occupied house,2019,Noord-Brabant (PV),1440.0,3460.0
+Owner-occupied house,2020,Noord-Brabant (PV),1350.0,3490.0
+Owner-occupied house,2021,Noord-Brabant (PV),1530.0,3540.0
+Owner-occupied house,2022,Noord-Brabant (PV),1190.0,3320.0
+Owner-occupied house,2010,Limburg (PV),,
+Owner-occupied house,2011,Limburg (PV),,
+Owner-occupied house,2012,Limburg (PV),2000.0,4000.0
+Owner-occupied house,2013,Limburg (PV),2100.0,3950.0
+Owner-occupied house,2014,Limburg (PV),1550.0,3800.0
+Owner-occupied house,2015,Limburg (PV),1680.0,3700.0
+Owner-occupied house,2016,Limburg (PV),1750.0,3630.0
+Owner-occupied house,2017,Limburg (PV),1690.0,3560.0
+Owner-occupied house,2018,Limburg (PV),1680.0,3490.0
+Owner-occupied house,2019,Limburg (PV),1560.0,3360.0
+Owner-occupied house,2020,Limburg (PV),1460.0,3350.0
+Owner-occupied house,2021,Limburg (PV),1660.0,3410.0
+Owner-occupied house,2022,Limburg (PV),1300.0,3220.0
