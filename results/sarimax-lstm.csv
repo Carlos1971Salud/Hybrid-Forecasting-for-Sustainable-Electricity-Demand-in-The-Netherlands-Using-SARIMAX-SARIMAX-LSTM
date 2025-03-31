@@ -1,0 +1,16 @@
+Feature Set,Horizon,nRMSE (%),nMAE (%),MAPE (%)
+Exogenous Features,1,2.62687,2.62687,2.62687
+Generated Features,1,7.646445,7.646445,7.646445
+Both Exogenous & Generated,1,2.388276,2.388276,2.388276
+Exogenous Features,7,7.13482,6.354201,6.278147
+Generated Features,7,5.248375,4.597742,4.583577
+Both Exogenous & Generated,7,5.900333,5.434926,5.501653
+Exogenous Features,30,4.651078,3.771009,3.801052
+Generated Features,30,5.502627,4.716159,4.701214
+Both Exogenous & Generated,30,4.906555,4.260843,4.249377
+Exogenous Features,90,5.387245,4.590583,4.603344
+Generated Features,90,5.46937,4.733496,4.724045
+Both Exogenous & Generated,90,5.735181,4.765472,4.736226
+Exogenous Features,180,5.926175,5.090245,5.086008
+Generated Features,180,5.568508,4.819234,4.842479
+Both Exogenous & Generated,180,6.064523,5.298211,5.277223
